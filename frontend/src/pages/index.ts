@@ -5,5 +5,6 @@ import Projects from './Projects';
 import Project from './Project';
 import NotFound from './NotFound';
 import Leaderboard from './Leaderboard';
+import Profile from './Profile';
 
-export { Home, Login, Register, Projects, Project, NotFound, Leaderboard };
+export { Home, Login, Register, Projects, Project, NotFound, Leaderboard, Profile };
