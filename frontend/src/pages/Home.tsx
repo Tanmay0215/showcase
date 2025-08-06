@@ -200,6 +200,221 @@ const Home = () => {
         </div>
       </div>
 
+      {/* Trending Section */}
+      <div className="bg-white py-16">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-12">
+            <h2 className="text-4xl font-bold text-gray-900 mb-4">
+              🔥 Trending Now
+            </h2>
+            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+              The most popular and talked-about projects this week. Discover
+              what's capturing everyone's attention.
+            </p>
+          </div>
+
+          {/* Trending Categories */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+            {/* Trending Music */}
+            <div className="bg-gradient-to-br from-purple-500 to-purple-700 rounded-xl p-6 text-white">
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-lg font-semibold">🎵 Music</h3>
+                <span className="text-sm bg-white/20 px-2 py-1 rounded">
+                  Trending
+                </span>
+              </div>
+              <div className="space-y-3">
+                <div className="flex items-center space-x-3">
+                  <img
+                    src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=60&h=60&fit=crop"
+                    alt="Midnight Dreams"
+                    className="w-12 h-12 rounded-lg object-cover"
+                  />
+                  <div className="flex-1">
+                    <p className="font-medium text-sm">Midnight Dreams</p>
+                    <p className="text-xs text-purple-200">Alex Rivera</p>
+                  </div>
+                  <span className="text-xs">156 ❤️</span>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <img
+                    src="https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=60&h=60&fit=crop"
+                    alt="Acoustic Memories"
+                    className="w-12 h-12 rounded-lg object-cover"
+                  />
+                  <div className="flex-1">
+                    <p className="font-medium text-sm">Acoustic Memories</p>
+                    <p className="text-xs text-purple-200">Jake Wilson</p>
+                  </div>
+                  <span className="text-xs">98 ❤️</span>
+                </div>
+              </div>
+            </div>
+
+            {/* Trending Art */}
+            <div className="bg-gradient-to-br from-orange-500 to-orange-700 rounded-xl p-6 text-white">
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-lg font-semibold">🎨 Art</h3>
+                <span className="text-sm bg-white/20 px-2 py-1 rounded">
+                  Trending
+                </span>
+              </div>
+              <div className="space-y-3">
+                <div className="flex items-center space-x-3">
+                  <img
+                    src="https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=60&h=60&fit=crop"
+                    alt="The Last Sunset"
+                    className="w-12 h-12 rounded-lg object-cover"
+                  />
+                  <div className="flex-1">
+                    <p className="font-medium text-sm">The Last Sunset</p>
+                    <p className="text-xs text-orange-200">Maria Gonzalez</p>
+                  </div>
+                  <span className="text-xs">203 ❤️</span>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <img
+                    src="https://images.unsplash.com/photo-1558655146-d09347e92766?w=60&h=60&fit=crop"
+                    alt="Digital Dreams"
+                    className="w-12 h-12 rounded-lg object-cover"
+                  />
+                  <div className="flex-1">
+                    <p className="font-medium text-sm">Digital Dreams</p>
+                    <p className="text-xs text-orange-200">Emma Thompson</p>
+                  </div>
+                  <span className="text-xs">134 ❤️</span>
+                </div>
+              </div>
+            </div>
+
+            {/* Trending Photography */}
+            <div className="bg-gradient-to-br from-blue-500 to-blue-700 rounded-xl p-6 text-white">
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-lg font-semibold">📸 Photography</h3>
+                <span className="text-sm bg-white/20 px-2 py-1 rounded">
+                  Trending
+                </span>
+              </div>
+              <div className="space-y-3">
+                <div className="flex items-center space-x-3">
+                  <img
+                    src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=60&h=60&fit=crop"
+                    alt="Mountain Reflections"
+                    className="w-12 h-12 rounded-lg object-cover"
+                  />
+                  <div className="flex-1">
+                    <p className="font-medium text-sm">Mountain Reflections</p>
+                    <p className="text-xs text-blue-200">Lisa Park</p>
+                  </div>
+                  <span className="text-xs">245 ❤️</span>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <img
+                    src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=60&h=60&fit=crop"
+                    alt="Urban Solitude"
+                    className="w-12 h-12 rounded-lg object-cover"
+                  />
+                  <div className="flex-1">
+                    <p className="font-medium text-sm">Urban Solitude</p>
+                    <p className="text-xs text-blue-200">Sarah Chen</p>
+                  </div>
+                  <span className="text-xs">89 ❤️</span>
+                </div>
+              </div>
+            </div>
+
+            {/* Trending Writing */}
+            <div className="bg-gradient-to-br from-green-500 to-green-700 rounded-xl p-6 text-white">
+              <div className="flex items-center justify-between mb-4">
+                <h3 className="text-lg font-semibold">✍️ Writing</h3>
+                <span className="text-sm bg-white/20 px-2 py-1 rounded">
+                  Trending
+                </span>
+              </div>
+              <div className="space-y-3">
+                <div className="flex items-center space-x-3">
+                  <img
+                    src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=60&h=60&fit=crop"
+                    alt="Whispers of the Wind"
+                    className="w-12 h-12 rounded-lg object-cover"
+                  />
+                  <div className="flex-1">
+                    <p className="font-medium text-sm">Whispers of the Wind</p>
+                    <p className="text-xs text-green-200">David Kim</p>
+                  </div>
+                  <span className="text-xs">67 ❤️</span>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <img
+                    src="https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=60&h=60&fit=crop"
+                    alt="The City That Never Sleeps"
+                    className="w-12 h-12 rounded-lg object-cover"
+                  />
+                  <div className="flex-1">
+                    <p className="font-medium text-sm">
+                      The City That Never Sleeps
+                    </p>
+                    <p className="text-xs text-green-200">Michael Brown</p>
+                  </div>
+                  <span className="text-xs">112 ❤️</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Featured Trending Project */}
+          <div className="bg-gradient-to-r from-purple-600 to-pink-600 rounded-2xl p-8 text-white">
+            <div className="flex flex-col lg:flex-row items-center">
+              <div className="lg:w-1/2 mb-6 lg:mb-0">
+                <div className="flex items-center mb-4">
+                  <span className="text-2xl mr-3">🏆</span>
+                  <div>
+                    <h3 className="text-2xl font-bold">Project of the Week</h3>
+                    <p className="text-purple-200">Most popular this week</p>
+                  </div>
+                </div>
+                <h4 className="text-3xl font-bold mb-4">
+                  Mountain Reflections
+                </h4>
+                <p className="text-lg mb-6 text-purple-100">
+                  A breathtaking series of landscape photographs capturing the
+                  majestic beauty of mountain ranges at different times of day.
+                  Each image tells a story of nature's grandeur and the passage
+                  of time.
+                </p>
+                <div className="flex items-center space-x-6">
+                  <div className="flex items-center space-x-2">
+                    <img
+                      src="https://images.unsplash.com/photo-1494790108755-2616b612b786?w=32&h=32&fit=crop&crop=face"
+                      alt="Lisa Park"
+                      className="w-8 h-8 rounded-full"
+                    />
+                    <span className="font-medium">Lisa Park</span>
+                  </div>
+                  <div className="flex items-center space-x-4">
+                    <span className="flex items-center">
+                      <span className="mr-1">❤️</span>
+                      245 likes
+                    </span>
+                    <span className="flex items-center">
+                      <span className="mr-1">👁️</span>
+                      1.2k views
+                    </span>
+                  </div>
+                </div>
+              </div>
+              <div className="lg:w-1/2 lg:pl-8">
+                <img
+                  src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop"
+                  alt="Mountain Reflections"
+                  className="w-full rounded-xl shadow-2xl"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       {/* Category Filter */}
       <div className="container mx-auto px-4 py-8">
         <div className="flex flex-wrap justify-center gap-4 mb-8">
