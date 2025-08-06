@@ -1,0 +1,112 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "E-Commerce Platform",
+      "description": "A full-stack e-commerce platform built with React, Node.js, and MongoDB. Features include user authentication, product management, shopping cart, and payment integration.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
+      "url": "https://github.com/user/ecommerce-platform",
+      "category": "web-development",
+      "tags": ["React", "Node.js", "MongoDB", "E-commerce"],
+      "author": {
+        "id": "1",
+        "name": "Alex Chen",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
+      },
+      "likes": 124,
+      "views": 2340,
+      "createdAt": "2024-01-15",
+      "updatedAt": "2024-01-20"
+    },
+    {
+      "id": "2",
+      "name": "Mobile Fitness App",
+      "description": "A React Native fitness tracking app with workout plans, progress tracking, and social features. Includes offline support and push notifications.",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=600&fit=crop",
+      "url": "https://github.com/user/fitness-app",
+      "category": "mobile-development",
+      "tags": ["React Native", "Firebase", "Fitness", "Mobile"],
+      "author": {
+        "id": "2",
+        "name": "Sarah Johnson",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face"
+      },
+      "likes": 89,
+      "views": 1567,
+      "createdAt": "2024-01-10",
+      "updatedAt": "2024-01-18"
+    },
+    {
+      "id": "3",
+      "name": "AI Chat Assistant",
+      "description": "An intelligent chatbot powered by OpenAI's GPT-3. Features natural language processing, context awareness, and multi-language support.",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=600&fit=crop",
+      "url": "https://github.com/user/ai-chat-assistant",
+      "category": "artificial-intelligence",
+      "tags": ["Python", "OpenAI", "NLP", "AI"],
+      "author": {
+        "id": "3",
+        "name": "Mike Rodriguez",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face"
+      },
+      "likes": 156,
+      "views": 3120,
+      "createdAt": "2024-01-05",
+      "updatedAt": "2024-01-15"
+    },
+    {
+      "id": "4",
+      "name": "Data Visualization Dashboard",
+      "description": "Interactive dashboard for visualizing complex datasets. Built with D3.js and React, featuring real-time updates and customizable charts.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
+      "url": "https://github.com/user/data-dashboard",
+      "category": "data-science",
+      "tags": ["React", "D3.js", "Data Visualization", "Analytics"],
+      "author": {
+        "id": "4",
+        "name": "Emma Wilson",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face"
+      },
+      "likes": 78,
+      "views": 1890,
+      "createdAt": "2024-01-12",
+      "updatedAt": "2024-01-19"
+    },
+    {
+      "id": "5",
+      "name": "Blockchain Wallet",
+      "description": "A secure cryptocurrency wallet with multi-chain support. Features include transaction history, portfolio tracking, and hardware wallet integration.",
+      "image": "https://images.unsplash.com/photo-1639762681485-074d7f9688f8?w=800&h=600&fit=crop",
+      "url": "https://github.com/user/blockchain-wallet",
+      "category": "blockchain",
+      "tags": ["Blockchain", "React", "Web3", "Cryptocurrency"],
+      "author": {
+        "id": "5",
+        "name": "David Kim",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face"
+      },
+      "likes": 203,
+      "views": 4567,
+      "createdAt": "2024-01-08",
+      "updatedAt": "2024-01-16"
+    },
+    {
+      "id": "6",
+      "name": "Game Engine",
+      "description": "A lightweight 2D game engine built with C++ and OpenGL. Includes physics engine, sprite management, and cross-platform support.",
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&h=600&fit=crop",
+      "url": "https://github.com/user/game-engine",
+      "category": "game-development",
+      "tags": ["C++", "OpenGL", "Game Engine", "2D"],
+      "author": {
+        "id": "6",
+        "name": "Lisa Park",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face"
+      },
+      "likes": 145,
+      "views": 2780,
+      "createdAt": "2024-01-03",
+      "updatedAt": "2024-01-14"
+    }
+  ]
+}

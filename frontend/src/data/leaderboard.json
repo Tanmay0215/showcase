@@ -1,0 +1,240 @@
+{
+  "weekly": [
+    {
+      "id": "1",
+      "name": "Alex Chen",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      "score": 2847,
+      "rank": 1,
+      "projects": 12,
+      "followers": 1240
+    },
+    {
+      "id": "2",
+      "name": "Sarah Johnson",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      "score": 2653,
+      "rank": 2,
+      "projects": 8,
+      "followers": 987
+    },
+    {
+      "id": "3",
+      "name": "Mike Rodriguez",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      "score": 2412,
+      "rank": 3,
+      "projects": 15,
+      "followers": 756
+    },
+    {
+      "id": "4",
+      "name": "Emma Wilson",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+      "score": 2189,
+      "rank": 4,
+      "projects": 9,
+      "followers": 634
+    },
+    {
+      "id": "5",
+      "name": "David Kim",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+      "score": 1956,
+      "rank": 5,
+      "projects": 11,
+      "followers": 543
+    },
+    {
+      "id": "6",
+      "name": "Lisa Park",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+      "score": 1823,
+      "rank": 6,
+      "projects": 7,
+      "followers": 432
+    },
+    {
+      "id": "7",
+      "name": "James Brown",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=face",
+      "score": 1698,
+      "rank": 7,
+      "projects": 13,
+      "followers": 398
+    },
+    {
+      "id": "8",
+      "name": "Maria Garcia",
+      "avatar": "https://images.unsplash.com/photo-1487412720507-e7dc376b8a4b?w=150&h=150&fit=crop&crop=face",
+      "score": 1542,
+      "rank": 8,
+      "projects": 6,
+      "followers": 365
+    },
+    {
+      "id": "9",
+      "name": "Tom Anderson",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      "score": 1421,
+      "rank": 9,
+      "projects": 10,
+      "followers": 321
+    },
+    {
+      "id": "10",
+      "name": "Anna Lee",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      "score": 1298,
+      "rank": 10,
+      "projects": 8,
+      "followers": 298
+    },
+    {
+      "id": "11",
+      "name": "Chris Taylor",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      "score": 1187,
+      "rank": 11,
+      "projects": 5,
+      "followers": 276
+    },
+    {
+      "id": "12",
+      "name": "Sophie Clark",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+      "score": 1098,
+      "rank": 12,
+      "projects": 9,
+      "followers": 254
+    },
+    {
+      "id": "13",
+      "name": "Ryan Miller",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+      "score": 987,
+      "rank": 13,
+      "projects": 7,
+      "followers": 234
+    }
+  ],
+  "monthly": [
+    {
+      "id": "1",
+      "name": "Sarah Johnson",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      "score": 12453,
+      "rank": 1,
+      "projects": 28,
+      "followers": 3240
+    },
+    {
+      "id": "2",
+      "name": "Alex Chen",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      "score": 11876,
+      "rank": 2,
+      "projects": 32,
+      "followers": 2987
+    },
+    {
+      "id": "3",
+      "name": "Mike Rodriguez",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      "score": 10987,
+      "rank": 3,
+      "projects": 25,
+      "followers": 2756
+    },
+    {
+      "id": "4",
+      "name": "Emma Wilson",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+      "score": 9876,
+      "rank": 4,
+      "projects": 19,
+      "followers": 2634
+    },
+    {
+      "id": "5",
+      "name": "David Kim",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+      "score": 8956,
+      "rank": 5,
+      "projects": 21,
+      "followers": 2543
+    },
+    {
+      "id": "6",
+      "name": "Lisa Park",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&crop=face",
+      "score": 7823,
+      "rank": 6,
+      "projects": 17,
+      "followers": 2432
+    },
+    {
+      "id": "7",
+      "name": "James Brown",
+      "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150&h=150&fit=crop&crop=face",
+      "score": 7698,
+      "rank": 7,
+      "projects": 23,
+      "followers": 2398
+    },
+    {
+      "id": "8",
+      "name": "Maria Garcia",
+      "avatar": "https://images.unsplash.com/photo-1487412720507-e7dc376b8a4b?w=150&h=150&fit=crop&crop=face",
+      "score": 7542,
+      "rank": 8,
+      "projects": 16,
+      "followers": 2365
+    },
+    {
+      "id": "9",
+      "name": "Tom Anderson",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+      "score": 7421,
+      "rank": 9,
+      "projects": 20,
+      "followers": 2321
+    },
+    {
+      "id": "10",
+      "name": "Anna Lee",
+      "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      "score": 7298,
+      "rank": 10,
+      "projects": 18,
+      "followers": 2298
+    },
+    {
+      "id": "11",
+      "name": "Chris Taylor",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      "score": 7187,
+      "rank": 11,
+      "projects": 15,
+      "followers": 2276
+    },
+    {
+      "id": "12",
+      "name": "Sophie Clark",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+      "score": 7098,
+      "rank": 12,
+      "projects": 19,
+      "followers": 2254
+    },
+    {
+      "id": "13",
+      "name": "Ryan Miller",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+      "score": 6987,
+      "rank": 13,
+      "projects": 17,
+      "followers": 2234
+    }
+  ]
+}

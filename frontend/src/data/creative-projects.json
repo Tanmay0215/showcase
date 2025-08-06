@@ -1,0 +1,148 @@
+{
+  "creativeProjects": [
+    {
+      "id": "1",
+      "name": "Midnight Dreams",
+      "description": "An ambient electronic composition exploring themes of solitude and reflection. Created using analog synthesizers and digital processing.",
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=400&h=200&fit=crop",
+      "url": "https://soundcloud.com/user/midnight-dreams",
+      "category": "creative",
+      "tags": ["ambient", "electronic", "synthwave", "atmospheric"],
+      "author": {
+        "id": "1",
+        "name": "Alex Rivera",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=32&h=32&fit=crop&crop=face"
+      },
+      "likes": 156,
+      "views": 890,
+      "createdAt": "2024-01-15",
+      "updatedAt": "2024-01-20"
+    },
+    {
+      "id": "2",
+      "name": "Urban Solitude",
+      "description": "A series of street photography capturing the quiet moments of city life. Each image tells a story of human connection in urban spaces.",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=200&fit=crop",
+      "url": "https://example.com/urban-solitude",
+      "category": "creative",
+      "tags": ["street", "urban", "black & white", "documentary"],
+      "author": {
+        "id": "2",
+        "name": "Sarah Chen",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=32&h=32&fit=crop&crop=face"
+      },
+      "likes": 89,
+      "views": 567,
+      "createdAt": "2024-01-12",
+      "updatedAt": "2024-01-18"
+    },
+    {
+      "id": "3",
+      "name": "The Last Sunset",
+      "description": "A contemporary oil painting exploring the relationship between light and memory. Created using traditional techniques with modern sensibilities.",
+      "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=200&fit=crop",
+      "url": "https://example.com/last-sunset",
+      "category": "creative",
+      "tags": ["oil painting", "contemporary", "landscape", "impressionist"],
+      "author": {
+        "id": "3",
+        "name": "Maria Gonzalez",
+        "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=32&h=32&fit=crop&crop=face"
+      },
+      "likes": 203,
+      "views": 1234,
+      "createdAt": "2024-01-10",
+      "updatedAt": "2024-01-15"
+    },
+    {
+      "id": "4",
+      "name": "Whispers of the Wind",
+      "description": "A collection of haiku poems inspired by nature and the changing seasons. Each poem captures a moment of beauty and reflection.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=200&fit=crop",
+      "url": "https://example.com/whispers-of-the-wind",
+      "category": "creative",
+      "tags": ["haiku", "poetry", "nature", "seasons"],
+      "author": {
+        "id": "4",
+        "name": "David Kim",
+        "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=32&h=32&fit=crop&crop=face"
+      },
+      "likes": 67,
+      "views": 345,
+      "createdAt": "2024-01-08",
+      "updatedAt": "2024-01-16"
+    },
+    {
+      "id": "5",
+      "name": "Digital Dreams",
+      "description": "A minimalist digital art series exploring the intersection of technology and human emotion. Created using custom algorithms and digital tools.",
+      "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=400&h=200&fit=crop",
+      "url": "https://example.com/digital-dreams",
+      "category": "creative",
+      "tags": ["digital art", "minimalist", "algorithmic", "abstract"],
+      "author": {
+        "id": "5",
+        "name": "Emma Thompson",
+        "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=32&h=32&fit=crop&crop=face"
+      },
+      "likes": 134,
+      "views": 678,
+      "createdAt": "2024-01-05",
+      "updatedAt": "2024-01-14"
+    },
+    {
+      "id": "6",
+      "name": "Acoustic Memories",
+      "description": "A folk-inspired acoustic song about childhood memories and growing up. Features fingerpicking guitar and heartfelt vocals.",
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400&h=200&fit=crop",
+      "url": "https://spotify.com/track/acoustic-memories",
+      "category": "creative",
+      "tags": ["folk", "acoustic", "singer-songwriter", "nostalgic"],
+      "author": {
+        "id": "6",
+        "name": "Jake Wilson",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=32&h=32&fit=crop&crop=face"
+      },
+      "likes": 98,
+      "views": 456,
+      "createdAt": "2024-01-03",
+      "updatedAt": "2024-01-13"
+    },
+    {
+      "id": "7",
+      "name": "Mountain Reflections",
+      "description": "A series of landscape photographs capturing the majestic beauty of mountain ranges at different times of day.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=200&fit=crop",
+      "url": "https://example.com/mountain-reflections",
+      "category": "creative",
+      "tags": ["landscape", "mountains", "nature", "reflections"],
+      "author": {
+        "id": "7",
+        "name": "Lisa Park",
+        "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=32&h=32&fit=crop&crop=face"
+      },
+      "likes": 245,
+      "views": 1456,
+      "createdAt": "2024-01-01",
+      "updatedAt": "2024-01-11"
+    },
+    {
+      "id": "8",
+      "name": "The City That Never Sleeps",
+      "description": "A short story exploring the lives of night workers in a bustling metropolis. A tale of connection and solitude in urban spaces.",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=200&fit=crop",
+      "url": "https://example.com/city-that-never-sleeps",
+      "category": "creative",
+      "tags": ["short story", "urban", "drama", "contemporary"],
+      "author": {
+        "id": "8",
+        "name": "Michael Brown",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=32&h=32&fit=crop&crop=face"
+      },
+      "likes": 112,
+      "views": 789,
+      "createdAt": "2023-12-28",
+      "updatedAt": "2024-01-09"
+    }
+  ]
+}
