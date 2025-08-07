@@ -102,7 +102,7 @@ const userProjects = [
     id: 4,
     title: "Abstract Composition",
     type: "Digital Art",
-    image: "https://cdnb.artstation.com/p/assets/images/images/030/152/799/large/sai-kumar-nandagiri-sunset.jpg?1599756585",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcp7uqr3uYL8YRG56jex_2FKYB0Yr8LBg8_Q&s",
     likes: 203,
     views: 980,
     date: "3 weeks ago",
@@ -112,7 +112,7 @@ const userProjects = [
     id: 5,
     title: "Brand Identity System",
     type: "Branding",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcp7uqr3uYL8YRG56jex_2FKYB0Yr8LBg8_Q&s",
+    image: "https://www.columnfivemedia.com/wp-content/uploads/2021/08/Brand-Identity-Assets-3.webp",
     likes: 167,
     views: 750,
     date: "1 month ago",
@@ -172,7 +172,9 @@ const getRarityColor = (rarity: string) => {
                 </div>
                 <div className="flex items-center space-x-1">
                   <LinkIcon className="h-4 w-4" />
-                  <span>{userProfile.website}</span>
+                  <a href={userProfile.website} target="_blank" rel="noopener noreferrer">
+                    {userProfile.website}
+                  </a>
                 </div>
                 <div className="flex items-center space-x-1">
                   <Calendar className="h-4 w-4" />
@@ -226,7 +228,7 @@ const getRarityColor = (rarity: string) => {
                     />
                     <Badge className="absolute top-2 right-2 bg-background/50 text-foreground">{project.type}</Badge>
                   </div>
-                  <CardContent className="px-4">
+                  <CardContent>
                     <h4 className="font-semibold text-lg mb-2">{project.title}</h4>
                     <div className="flex items-center justify-between text-sm text-muted-foreground mb-3">
                       <span>{project.date}</span>
